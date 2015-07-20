@@ -1,7 +1,6 @@
 __author__ = 'jamespcole'
 
 import requests
-import json
 from requests.exceptions import RequestException
 
 class SabnzbdApi(object):

@@ -1,2 +1,4 @@
 # home-assistant-nzb-clients
-Provide NZB client support for integration with home-assistant
+### Python implementation of SABnzbd API.
+
+This is for use with home-assistant but can also be used stand-alone.
